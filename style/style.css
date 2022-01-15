@@ -123,6 +123,19 @@ nav .fa {
   .cta h1 {
     font-size: 24px;
   }
+  h1 {
+    font-size: 18px;
+  }
+  span {
+    border-right: 5px solid rgb(27, 156, 216);
+    padding-right: 8px;
+  }
+  h3 {
+    font-size: 14px;
+  }
+  p {
+    font-size: 10px;
+  }
 }
 /* course */
 .course {
@@ -312,6 +325,7 @@ h3 {
   font-size: 1.4rem;
 }
 .footer .fab:hover {
+  color: rgb(47, 190, 159);
   font-weight: bold;
 }
 .copyright {
